@@ -1,0 +1,188 @@
+/* ===== Reset Básico ===== */
+body {
+    margin: 0;
+    font-family: 'Lato', 'Segoe UI', sans-serif;
+    background-color: #f9fafb;
+    color: #3d405b;
+}
+
+/* ===== Container Principal ===== */
+.dashboard-container {
+    padding: 20px;
+}
+
+/* ===== Cabeçalho ===== */
+.header {
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #111827;
+}
+
+.header h2 {
+    font-size: 16px;
+    font-weight: 400;
+    color: #6b7280;
+}
+
+/* ===== Filtros ===== */
+.filter-section {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.filter-control {
+    flex: 1;
+}
+
+.filter-control label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #3d405b;
+    margin-bottom: 5px;
+    display: block;
+}
+
+/* Estilo do Dropdown */
+.Select-control {
+    border-radius: 10px;
+    border: 1px solid #d1d5db;
+}
+
+/* ===== Cards de KPI ===== */
+.kpi-card-row {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.card {
+    flex: 1;
+    background: white;
+    display: flex; /* ATIVA O FLEXBOX */
+    padding: 20px;
+    border: 0px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+    text-align: center;
+    transition: transform 0.2s ease;
+}
+
+/* ADICIONE ESTES NOVOS ESTILOS PARA O ÍCONE E O TEXTO */
+.card-icon {
+    font-size: 36px; /* Tamanho do ícone */
+    color: #11151C; /* Cor roxa padrão, pode ser alterada */
+    width: 40px; /* Largura fixa para alinhamento */
+    text-align: center;
+}
+
+.card-text {
+    flex-grow: 1;
+}
+
+.card:hover {
+    transform: translateY(-4px);
+}
+
+.card-value {
+    font-size: 36px;
+    font-weight: bold;
+    color: #11151C;
+    margin-bottom: 2px; /* Reduz a margem */
+}
+
+.card-title {
+    font-size: 14px;
+    color: #6b7280;
+    margin-bottom: 20px; /* Remove margem padrão do parágrafo */
+}
+
+/* ===== Gráficos ===== */
+.charts-section {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 20px; /* Adicionado espaço abaixo */
+}
+
+/* NOVO: Seção para os gráficos de medidor */
+.gauge-charts-section {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 colunas */
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
+.chart {
+    background: white;
+    padding: 15px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Ajusta o espaçamento interno do gráfico */
+.chart .js-plotly-plot {
+    border-radius: 12px;
+}
+
+/* ===== Barra de Rolagem ===== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #d1d5db;
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+/* ===== Estilo dos Tooltips (Legendas) ===== */
+.bs-tooltip-auto[data-popper-placement^=bottom] .tooltip-arrow::before,
+.bs-tooltip-bottom .tooltip-arrow::before {
+    border-bottom-color: #3d405b; /* Cor da seta do tooltip */
+}
+
+.tooltip-inner {
+    background-color: #3d405b; /* Cor de fundo do tooltip */
+    color: #f9fafb;             /* Cor do texto do tooltip */
+    border-radius: 8px;          /* Bordas arredondadas */
+    padding: 8px 12px;           /* Espaçamento interno */
+    font-size: 13px;             /* Tamanho da fonte */
+    font-family: 'Lato', 'Segoe UI', sans-serif; /* Garante a mesma fonte */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Sombra suave */
+    max-width: 250px; /* Largura máxima para evitar que fique muito largo */
+    text-align: left; /* Alinhamento do texto */
+}
+
+/* ===== ESTILOS PARA O LAYOUT COM HEADER ===== */
+
+/* Adiciona um espaçamento interno ao container principal do conteúdo da página */
+.content-container {
+    padding: 20px;
+    background-color: #f9fafb;
+}
+
+/* Ajusta o container do dashboard para ocupar o espaço corretamente */
+.dashboard-container {
+    padding: 0; /* Remove o padding antigo para não duplicar */
+}
+
+/* Personaliza a aparência do link ativo na barra de navegação */
+.nav-link-custom.active {
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-offset: 4px; /* Distância do sublinhado */
+}
+
+/* Remove o padding que pode afetar o alinhamento dos cards */
+.card-body {
+    padding: 0;
+}
