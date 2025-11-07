@@ -1,0 +1,1414 @@
+COD_CURSO;NOME_CURSO;ANO_EVASAO;PERIODO_EVASAO;FORMA_EVASAO;COTISTA;SEXO;ET_BRANCA;ET_PRETA;ET_AMARELA;ET_PARDA;ET_INDIGINA;ET_NAO_INFORMADO;ET_NAO_DECLARADA;QTDE
+10;Física;2011;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10;Física;2011;1º Semestre;Desistência;N;M;2;0;2;1;0;0;0;5
+10;Física;2011;1º Semestre;Desligamento por Abandono;N;F;3;0;0;1;0;0;0;4
+10;Física;2011;1º Semestre;Desligamento por Abandono;N;M;10;2;0;3;0;0;0;15
+10;Física;2011;1º Semestre;Desligamento por Abandono;S;F;2;0;0;0;0;0;0;2
+10;Física;2011;1º Semestre;Desligamento por Abandono;S;M;4;2;0;1;0;0;0;7
+10;Física;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;0;0;0;1;2
+10;Física;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;0;0;0;0;0;0;2
+10;Física;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;1;1;0;0;0;0;0;2
+10;Física;2011;1º Semestre;Desligamento: Descumpriu Plano de Estudos;N;M;1;0;0;0;0;0;0;1
+10;Física;2011;1º Semestre;Não Informado;N;M;0;0;0;0;0;0;1;1
+10;Física;2011;1º Semestre;Não Informado;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2011;1º Semestre;Desistência;N;F;0;1;0;1;0;0;0;2
+10 B;Física - Bacharelado;2011;1º Semestre;Desistência;N;M;1;2;0;3;0;0;0;6
+10 B;Física - Bacharelado;2011;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2011;1º Semestre;Desligamento por Abandono;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2011;1º Semestre;Desligamento por Abandono;N;M;11;2;1;4;0;0;0;18
+10 B;Física - Bacharelado;2011;1º Semestre;Desligamento por Abandono;S;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2011;1º Semestre;Formado;N;M;3;0;0;1;0;0;0;4
+10 L;Física - Licenciatura;2011;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2011;1º Semestre;Desistência;N;M;2;1;0;1;0;0;1;5
+10 L;Física - Licenciatura;2011;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2011;1º Semestre;Desligamento por Abandono;N;M;4;0;0;2;0;0;0;6
+10 L;Física - Licenciatura;2011;1º Semestre;Desligamento por Abandono;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;1;0;0;0;0;1
+10 L;Física - Licenciatura;2011;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2011;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2011;1º Semestre;Formado;N;M;3;0;0;2;0;0;0;5
+12;Matemática;2011;1º Semestre;Desistência;N;F;1;1;0;2;0;0;0;4
+12;Matemática;2011;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2011;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+12;Matemática;2011;1º Semestre;Formado;N;F;0;0;0;0;0;1;0;1
+12;Matemática;2011;1º Semestre;Transferido;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2011;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2011;1º Semestre;Formado;N;F;1;1;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2011;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2011;1º Semestre;Formado;N;M;1;1;1;0;0;0;0;3
+16;Estatística;2011;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2011;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+16;Estatística;2011;1º Semestre;Desligamento por Abandono;S;F;0;0;0;0;0;0;2;2
+16;Estatística;2011;1º Semestre;Desligamento por Abandono;S;M;1;0;0;0;0;0;1;2
+16;Estatística;2011;1º Semestre;Formado;N;F;1;0;0;2;0;0;0;3
+32;Química;2011;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32;Química;2011;1º Semestre;Transferência Interna;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2011;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2011;1º Semestre;Formado;N;F;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2011;1º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+32 L;Química - Licenciatura;2011;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2011;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10;Física;2011;2º Semestre;Desistência;N;M;3;2;0;0;0;0;0;5
+10 B;Física - Bacharelado;2011;2º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2011;2º Semestre;Desistência;N;M;6;1;0;2;0;0;0;9
+10 B;Física - Bacharelado;2011;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2011;2º Semestre;Formado;N;F;2;1;0;0;0;0;0;3
+10 B;Física - Bacharelado;2011;2º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2011;2º Semestre;Desistência;N;M;4;0;0;2;0;0;0;6
+10 L;Física - Licenciatura;2011;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2011;2º Semestre;Formado;N;M;5;1;0;1;0;0;0;7
+10 L;Física - Licenciatura;2011;2º Semestre;Reopção de Curso;N;F;1;0;0;0;0;0;0;1
+12;Matemática;2011;2º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2011;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2011;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2011;2º Semestre;Formado;N;F;4;0;0;5;0;0;0;9
+12 L;Matemática - Licenciatura;2011;2º Semestre;Formado;N;M;4;0;0;4;0;0;1;9
+16;Estatística;2011;2º Semestre;Desistência;N;F;0;0;0;2;0;0;0;2
+16;Estatística;2011;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+16;Estatística;2011;2º Semestre;Desligamento por Abandono;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2011;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2011;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2011;2º Semestre;Reopção de Curso;N;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2011;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2011;2º Semestre;Desistência;N;M;3;0;0;1;0;0;0;4
+32 B;Química - Bacharelado;2011;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2011;2º Semestre;Formado;N;F;7;1;0;0;0;0;0;8
+32 B;Química - Bacharelado;2011;2º Semestre;Formado;N;M;5;0;0;2;0;0;0;7
+32 B;Química - Bacharelado;2011;2º Semestre;Reopção de Curso;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2011;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2011;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2011;2º Semestre;Formado;N;F;2;0;0;1;0;0;0;3
+32 L;Química - Licenciatura;2011;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10;Física;2012;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10;Física;2012;1º Semestre;Desistência;N;M;2;0;0;1;0;0;0;3
+10;Física;2012;1º Semestre;Desligamento por Abandono;N;F;3;0;0;0;0;0;0;3
+10;Física;2012;1º Semestre;Desligamento por Abandono;N;M;9;1;0;3;0;0;1;14
+10 B;Física - Bacharelado;2012;1º Semestre;Desistência;N;F;2;1;0;1;0;0;0;4
+10 B;Física - Bacharelado;2012;1º Semestre;Desistência;N;M;5;0;0;1;0;0;0;6
+10 B;Física - Bacharelado;2012;1º Semestre;Desistência;S;M;0;0;1;0;0;0;0;1
+10 B;Física - Bacharelado;2012;1º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2012;1º Semestre;Desligamento por Abandono;N;M;11;1;0;0;0;0;0;12
+10 B;Física - Bacharelado;2012;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2012;1º Semestre;Formado;N;M;2;0;0;0;0;0;2;4
+10 B;Física - Bacharelado;2012;1º Semestre;Reopção de Curso;N;M;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2012;1º Semestre;Reopção de Curso;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2012;1º Semestre;Transferido;S;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2012;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2012;1º Semestre;Desistência;N;M;2;0;0;3;0;0;1;6
+10 L;Física - Licenciatura;2012;1º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2012;1º Semestre;Desligamento por Abandono;N;F;2;1;0;2;0;0;1;6
+10 L;Física - Licenciatura;2012;1º Semestre;Desligamento por Abandono;N;M;6;1;0;5;0;0;0;12
+10 L;Física - Licenciatura;2012;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2012;1º Semestre;Formado;N;M;6;1;0;0;0;0;0;7
+10 L;Física - Licenciatura;2012;1º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2012;1º Semestre;Desistência;N;F;3;0;0;1;0;0;0;4
+12;Matemática;2012;1º Semestre;Desistência;N;M;1;1;0;3;0;0;0;5
+12;Matemática;2012;1º Semestre;Desligamento por Abandono;N;F;2;0;0;1;0;0;0;3
+12;Matemática;2012;1º Semestre;Desligamento por Abandono;N;M;4;0;0;0;0;0;3;7
+12;Matemática;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;0;4;0;0;0;4
+12;Matemática;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;6;0;0;0;0;0;0;6
+12;Matemática;2012;1º Semestre;Reopção de Curso;N;M;1;0;0;1;0;0;0;2
+12;Matemática;2012;1º Semestre;Transferido;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2012;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2012;1º Semestre;Desligamento por Abandono;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2012;1º Semestre;Formado;N;F;1;0;1;2;0;0;0;4
+12 L;Matemática - Licenciatura;2012;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+16;Estatística;2012;1º Semestre;Desistência;N;F;2;0;0;1;0;0;0;3
+16;Estatística;2012;1º Semestre;Desistência;N;M;0;0;0;0;0;0;1;1
+16;Estatística;2012;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2012;1º Semestre;Desligamento por Abandono;N;F;0;0;0;0;0;2;2;4
+16;Estatística;2012;1º Semestre;Desligamento por Abandono;N;M;5;0;0;1;0;0;0;6
+16;Estatística;2012;1º Semestre;Desligamento por Abandono;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2012;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2012;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2012;1º Semestre;Reopção de Curso;N;M;0;0;0;1;0;0;0;1
+32;Química;2012;1º Semestre;Desligamento por Abandono;N;F;2;0;0;0;0;0;0;2
+32;Química;2012;1º Semestre;Desligamento por Abandono;N;M;4;0;0;1;0;0;0;5
+32;Química;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2012;1º Semestre;Desistência;N;F;3;0;0;1;1;0;1;6
+32 B;Química - Bacharelado;2012;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2012;1º Semestre;Desligamento por Abandono;N;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2012;1º Semestre;Desligamento por Abandono;N;M;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2012;1º Semestre;Desligamento por Abandono;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2012;1º Semestre;Formado;N;F;5;0;0;1;0;0;0;6
+32 B;Química - Bacharelado;2012;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2012;1º Semestre;Reopção de Curso;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desistência;N;M;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desligamento por Abandono;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desligamento por Abandono;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;1º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+10;Física;2012;2º Semestre;Desligamento por Abandono;N;F;0;0;0;0;1;0;0;1
+10;Física;2012;2º Semestre;Desligamento por Abandono;N;M;3;0;0;3;0;0;0;6
+10;Física;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2012;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2012;2º Semestre;Desistência;N;M;2;0;1;2;0;0;2;7
+10 B;Física - Bacharelado;2012;2º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2012;2º Semestre;Desligamento por Abandono;N;F;0;0;0;2;0;0;1;3
+10 B;Física - Bacharelado;2012;2º Semestre;Desligamento por Abandono;N;M;8;1;0;2;0;0;1;12
+10 B;Física - Bacharelado;2012;2º Semestre;Desligamento por Abandono;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;3;0;0;2;0;0;0;5
+10 B;Física - Bacharelado;2012;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2012;2º Semestre;Formado;N;M;4;0;0;3;0;0;0;7
+10 L;Física - Licenciatura;2012;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2012;2º Semestre;Desligamento por Abandono;N;F;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2012;2º Semestre;Desligamento por Abandono;N;M;6;1;0;6;0;0;0;13
+10 L;Física - Licenciatura;2012;2º Semestre;Desligamento por Abandono;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2012;2º Semestre;Formado;N;M;1;0;0;2;0;0;0;3
+12;Matemática;2012;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2012;2º Semestre;Desligamento por Abandono;N;F;3;0;0;0;0;0;1;4
+12;Matemática;2012;2º Semestre;Desligamento por Abandono;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;0;2;0;0;0;2
+12;Matemática;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;0;0;2;0;0;0;4
+12 B;Matemática - Bacharelado;2012;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2012;2º Semestre;Formado;N;M;0;0;0;2;0;0;0;2
+12 L;Matemática - Licenciatura;2012;2º Semestre;Formado;N;F;4;0;0;2;0;0;0;6
+12 L;Matemática - Licenciatura;2012;2º Semestre;Formado;N;M;4;0;0;2;0;0;1;7
+16;Estatística;2012;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2012;2º Semestre;Desistência;N;M;2;0;0;2;0;0;0;4
+16;Estatística;2012;2º Semestre;Desligamento por Abandono;N;F;3;0;0;0;0;0;0;3
+16;Estatística;2012;2º Semestre;Desligamento por Abandono;N;M;6;1;0;2;0;0;0;9
+16;Estatística;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;1;0;3;0;0;0;5
+16;Estatística;2012;2º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2012;2º Semestre;Formado;N;M;0;1;0;0;0;0;0;1
+32;Química;2012;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32;Química;2012;2º Semestre;Desligamento por Abandono;N;F;0;1;0;1;0;0;0;2
+32;Química;2012;2º Semestre;Desligamento por Abandono;N;M;5;1;0;1;0;0;0;7
+32;Química;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2012;2º Semestre;Desistência;N;F;0;0;1;0;0;0;0;1
+32 B;Química - Bacharelado;2012;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2012;2º Semestre;Desligamento por Abandono;N;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2012;2º Semestre;Desligamento por Abandono;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2012;2º Semestre;Desligamento por Abandono;S;F;1;2;0;1;0;0;0;4
+32 B;Química - Bacharelado;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2012;2º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2012;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2012;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2012;2º Semestre;Desligamento por Abandono;N;F;3;0;1;2;0;0;0;6
+32 L;Química - Licenciatura;2012;2º Semestre;Desligamento por Abandono;N;M;2;0;0;1;0;0;0;3
+32 L;Química - Licenciatura;2012;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2012;2º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+10;Física;2013;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2013;1º Semestre;Desistência;N;F;1;0;1;2;0;0;0;4
+10 B;Física - Bacharelado;2013;1º Semestre;Desistência;N;M;1;0;0;2;0;0;1;4
+10 B;Física - Bacharelado;2013;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2013;1º Semestre;Formado;N;F;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2013;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2013;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2013;1º Semestre;Desistência;N;M;1;2;0;1;0;0;0;4
+10 L;Física - Licenciatura;2013;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2013;1º Semestre;Desistência;S;N;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2013;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2013;1º Semestre;Formado;N;M;1;1;1;4;0;0;0;7
+12;Matemática;2013;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+12;Matemática;2013;1º Semestre;Desistência;N;M;2;1;0;1;0;0;0;4
+12;Matemática;2013;1º Semestre;Reopção de Curso;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2013;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2013;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2013;1º Semestre;Formado;N;M;1;0;0;1;0;0;1;3
+16;Estatística;2013;1º Semestre;Desistência;N;F;2;0;0;2;0;0;0;4
+16;Estatística;2013;1º Semestre;Desistência;N;M;2;0;0;1;0;0;0;3
+16;Estatística;2013;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2013;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32;Química;2013;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2013;1º Semestre;Desistência;N;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2013;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2013;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2013;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2013;1º Semestre;Formado;N;M;3;0;0;0;0;0;1;4
+32 B;Química - Bacharelado;2013;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2013;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2013;1º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2013;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2013;2º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2013;2º Semestre;Desistência;N;M;5;0;0;4;0;0;0;9
+10 B;Física - Bacharelado;2013;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2013;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2013;2º Semestre;Formado;N;M;1;1;0;2;0;0;1;5
+10 B;Física - Bacharelado;2013;2º Semestre;Reopção de Curso;N;M;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2013;2º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2013;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2013;2º Semestre;Formado;N;F;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2013;2º Semestre;Formado;N;M;2;1;0;1;0;0;0;4
+10 L;Física - Licenciatura;2013;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2013;2º Semestre;Falecimento;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2013;2º Semestre;Reopção de Curso;N;F;1;0;0;0;0;0;0;1
+12;Matemática;2013;2º Semestre;Sansão Disciplinar;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2013;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2013;2º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2013;2º Semestre;Formado;N;M;1;0;1;2;0;0;0;4
+16;Estatística;2013;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2013;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2013;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2013;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2013;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+32;Química;2013;2º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2013;2º Semestre;Desistência;N;F;2;0;0;2;0;0;0;4
+32 B;Química - Bacharelado;2013;2º Semestre;Desistência;S;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2013;2º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2013;2º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2013;2º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2013;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2013;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2013;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2013;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2013;2º Semestre;Reopção de Curso;N;F;0;0;0;2;0;0;0;2
+32 L;Química - Licenciatura;2013;2º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+10;Física;2014;1º Semestre;Desligamento por Abandono;N;M;4;1;0;2;0;0;0;7
+10;Física;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;2;0;0;0;2
+10;Física;2014;1º Semestre;Desligamento: Descumpriu Plano de Estudos;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2014;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2014;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2014;1º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2014;1º Semestre;Desligamento por Abandono;N;F;2;0;0;3;0;0;0;5
+10 B;Física - Bacharelado;2014;1º Semestre;Desligamento por Abandono;N;M;13;1;0;1;0;0;1;16
+10 B;Física - Bacharelado;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;5;1;0;1;0;0;2;9
+10 B;Física - Bacharelado;2014;1º Semestre;Formado;N;M;3;0;0;2;0;0;0;5
+10 L;Física - Licenciatura;2014;1º Semestre;Desistência;N;M;3;0;0;1;0;0;0;4
+10 L;Física - Licenciatura;2014;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2014;1º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+10 L;Física - Licenciatura;2014;1º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2014;1º Semestre;Desligamento por Abandono;N;M;6;1;0;3;0;0;0;10
+10 L;Física - Licenciatura;2014;1º Semestre;Desligamento por Abandono;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2014;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+12;Matemática;2014;1º Semestre;Desistência;N;F;0;1;0;0;0;0;0;1
+12;Matemática;2014;1º Semestre;Desistência;N;M;1;0;0;2;0;0;1;4
+12;Matemática;2014;1º Semestre;Desligamento por Abandono;N;F;1;0;0;2;0;0;0;3
+12;Matemática;2014;1º Semestre;Desligamento por Abandono;N;M;3;1;0;2;0;0;0;6
+12;Matemática;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;1;0;1;0;0;0;2
+12;Matemática;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;1;1;0;0;0;2
+12 B;Matemática - Bacharelado;2014;1º Semestre;Abandono - concurso;S;M;1;0;0;2;0;0;1;4
+12 B;Matemática - Bacharelado;2014;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2014;1º Semestre;Desligamento por Abandono;N;F;3;0;0;1;0;0;0;4
+12 B;Matemática - Bacharelado;2014;1º Semestre;Desligamento por Abandono;N;M;7;0;0;3;0;0;0;10
+12 B;Matemática - Bacharelado;2014;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2014;1º Semestre;Desligamento por Abandono;N;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2014;1º Semestre;Desligamento por Abandono;N;M;1;1;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2014;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2014;1º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+16;Estatística;2014;1º Semestre;Desistência;N;M;0;1;0;1;0;0;1;3
+16;Estatística;2014;1º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+16;Estatística;2014;1º Semestre;Desligamento por Abandono;N;F;2;0;0;0;0;0;0;2
+16;Estatística;2014;1º Semestre;Desligamento por Abandono;N;M;6;0;1;1;0;0;0;8
+16;Estatística;2014;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2014;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2014;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32;Química;2014;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+32;Química;2014;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2014;1º Semestre;Desistência;N;F;3;0;0;1;0;0;0;4
+32 B;Química - Bacharelado;2014;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2014;1º Semestre;Formado;N;F;2;1;0;0;0;0;0;3
+32 B;Química - Bacharelado;2014;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2014;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2014;1º Semestre;Desistência;N;F;0;0;1;0;0;0;0;1
+10 B;Física - Bacharelado;2014;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2014;2º Semestre;Desistência;N;M;1;0;1;0;0;0;1;3
+10 B;Física - Bacharelado;2014;2º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2014;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2014;2º Semestre;Reopção de Curso;N;M;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2014;2º Semestre;Desistência;N;M;0;0;0;0;0;0;1;1
+10 L;Física - Licenciatura;2014;2º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2014;2º Semestre;Formado;N;M;1;2;0;1;0;0;0;4
+10 L;Física - Licenciatura;2014;2º Semestre;Reopção de Curso;N;F;0;0;0;1;0;0;0;1
+12;Matemática;2014;2º Semestre;Desistência;N;F;0;0;0;0;0;0;1;1
+12;Matemática;2014;2º Semestre;Desistência;N;M;0;0;0;0;0;0;1;1
+12 B;Matemática - Bacharelado;2014;2º Semestre;Formado;N;M;2;0;0;2;0;0;0;4
+12 L;Matemática - Licenciatura;2014;2º Semestre;Formado;N;F;2;0;0;3;0;0;0;5
+12 L;Matemática - Licenciatura;2014;2º Semestre;Formado;N;M;3;3;1;1;0;0;0;8
+16;Estatística;2014;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2014;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2014;2º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+32;Química;2014;2º Semestre;Desistência;S;M;0;0;1;0;0;0;0;1
+32 B;Química - Bacharelado;2014;2º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2014;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2014;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2014;2º Semestre;Formado;N;F;5;0;0;0;0;0;0;5
+32 B;Química - Bacharelado;2014;2º Semestre;Formado;N;M;4;0;0;1;0;0;0;5
+32 B;Química - Bacharelado;2014;2º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2014;2º Semestre;Reopção de Curso;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2014;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2014;2º Semestre;Formado;N;F;0;0;0;3;0;0;0;3
+32 L;Química - Licenciatura;2014;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2014;2º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2014;2º Semestre;Reopção de Curso;N;F;0;0;0;1;0;0;0;1
+10;Física;2015;1º Semestre;Desligamento por Abandono;N;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2015;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2015;1º Semestre;Desistência;N;M;3;0;1;2;0;0;0;6
+10 B;Física - Bacharelado;2015;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2015;1º Semestre;Desistência;S;M;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;F;2;0;0;2;0;0;2;6
+10 B;Física - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;M;9;0;0;4;0;0;0;13
+10 B;Física - Bacharelado;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;0;0;2;0;0;0;4
+10 B;Física - Bacharelado;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2015;1º Semestre;Formado;N;M;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2015;1º Semestre;Formado;S;M;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2015;1º Semestre;Desistência;N;M;3;1;0;1;0;0;0;5
+10 L;Física - Licenciatura;2015;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;1º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2015;1º Semestre;Desligamento por Abandono;N;M;3;0;0;1;0;0;0;4
+10 L;Física - Licenciatura;2015;1º Semestre;Desligamento por Abandono;S;M;0;0;0;3;0;0;0;3
+10 L;Física - Licenciatura;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2015;1º Semestre;Formado;N;F;0;0;1;0;0;0;0;1
+12;Matemática;2015;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;F;0;0;0;3;0;0;0;3
+12 B;Matemática - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2015;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2015;1º Semestre;Desistência;N;F;0;1;0;0;0;0;0;1
+16;Estatística;2015;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2015;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+16;Estatística;2015;1º Semestre;Desligamento por Abandono;N;F;2;0;0;5;0;0;0;7
+16;Estatística;2015;1º Semestre;Desligamento por Abandono;N;M;2;0;0;2;0;0;0;4
+16;Estatística;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;1;0;0;0;2
+16;Estatística;2015;1º Semestre;Formado;N;F;1;1;0;1;0;0;0;3
+16;Estatística;2015;1º Semestre;Formado;N;M;3;0;0;1;0;0;0;4
+32;Química;2015;1º Semestre;Desligamento por Abandono;N;F;3;0;0;1;0;0;0;4
+32;Química;2015;1º Semestre;Desligamento por Abandono;N;M;3;1;0;1;0;0;0;5
+32;Química;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;0;0;0;0;1
+32;Química;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2015;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;1º Semestre;Desistência;N;M;3;0;0;3;0;0;0;6
+32 B;Química - Bacharelado;2015;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2015;1º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;F;6;0;0;0;0;0;0;6
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento por Abandono;N;M;9;2;0;0;0;0;0;11
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento por Abandono;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento por Abandono;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;1º Semestre;Formado;N;F;5;0;0;1;0;0;2;8
+32 L;Química - Licenciatura;2015;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2015;1º Semestre;Desligamento por Abandono;N;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2015;1º Semestre;Desligamento por Abandono;N;M;1;1;0;2;0;0;0;4
+32 L;Química - Licenciatura;2015;1º Semestre;Desligamento por Abandono;S;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2015;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2015;2º Semestre;Desistência;N;F;2;0;0;2;0;0;0;4
+10 B;Física - Bacharelado;2015;2º Semestre;Desistência;N;M;5;0;0;2;0;0;0;7
+10 B;Física - Bacharelado;2015;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;F;2;0;0;1;0;0;0;3
+10 B;Física - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;M;5;0;1;3;0;0;1;10
+10 B;Física - Bacharelado;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2015;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2015;2º Semestre;Formado;N;M;3;0;0;1;0;0;0;4
+10 B;Física - Bacharelado;2015;2º Semestre;Reopção de Curso;N;F;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2015;2º Semestre;Reopção de Curso;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2015;2º Semestre;Transferido;N;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Desistência;N;M;0;0;0;4;0;0;0;4
+10 L;Física - Licenciatura;2015;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Desligamento por Abandono;N;F;0;0;0;2;0;0;0;2
+10 L;Física - Licenciatura;2015;2º Semestre;Desligamento por Abandono;N;M;7;2;1;3;0;0;0;13
+10 L;Física - Licenciatura;2015;2º Semestre;Desligamento por Abandono;S;M;1;1;0;2;0;0;0;4
+10 L;Física - Licenciatura;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Formado;N;M;2;1;0;3;0;0;0;6
+10 L;Física - Licenciatura;2015;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2015;2º Semestre;Transferido;S;M;0;0;0;0;0;0;1;1
+12;Matemática;2015;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12;Matemática;2015;2º Semestre;Desistência;N;M;2;1;0;0;0;0;0;3
+12;Matemática;2015;2º Semestre;Desligamento por Abandono;N;F;1;0;0;1;1;0;0;3
+12;Matemática;2015;2º Semestre;Desligamento por Abandono;N;M;5;0;1;3;0;0;1;10
+12;Matemática;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;1;0;0;0;2
+12;Matemática;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;1;0;1;0;0;0;3
+12;Matemática;2015;2º Semestre;Reopção de Curso;N;F;1;0;0;0;0;0;0;1
+12;Matemática;2015;2º Semestre;Transferido;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2015;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;F;3;0;0;2;0;0;0;5
+12 B;Matemática - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;M;7;0;1;2;0;0;0;10
+12 B;Matemática - Bacharelado;2015;2º Semestre;Formado;N;M;1;1;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2015;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2015;2º Semestre;Formado;N;F;2;0;0;2;0;0;0;4
+12 L;Matemática - Licenciatura;2015;2º Semestre;Formado;N;M;1;1;0;0;0;0;0;2
+16;Estatística;2015;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2015;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+16;Estatística;2015;2º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2015;2º Semestre;Desligamento por Abandono;N;M;2;1;0;1;0;0;0;4
+16;Estatística;2015;2º Semestre;Desligamento por Abandono;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2015;2º Semestre;Desligamento por Abandono;S;M;0;1;0;0;0;0;0;1
+16;Estatística;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;0;0;2;0;0;0;2
+16;Estatística;2015;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;2º Semestre;Desistência;N;F;3;1;0;3;0;0;0;7
+32 B;Química - Bacharelado;2015;2º Semestre;Desistência;N;M;2;1;0;0;0;0;0;3
+32 B;Química - Bacharelado;2015;2º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;F;4;0;0;0;0;0;0;4
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento por Abandono;N;M;6;1;0;1;0;0;0;8
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento por Abandono;S;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2015;2º Semestre;Formado;N;F;3;0;0;2;0;0;2;7
+32 B;Química - Bacharelado;2015;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2015;2º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2015;2º Semestre;Formado;S;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2015;2º Semestre;Reopção de Curso;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2015;2º Semestre;Desistência;N;M;0;1;0;1;0;0;0;2
+32 L;Química - Licenciatura;2015;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2015;2º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Reopção de Curso;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2015;2º Semestre;Reopção de Curso;N;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2016;1º Semestre;Desistência;N;M;2;0;0;1;0;0;0;3
+10 B;Física - Bacharelado;2016;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2016;1º Semestre;Formado;N;M;3;1;0;1;0;0;0;5
+10 B;Física - Bacharelado;2016;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2016;1º Semestre;Transferido;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Formado;N;M;0;0;0;2;0;0;0;2
+10 L;Física - Licenciatura;2016;1º Semestre;Reopção de Curso;N;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Transferido;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2016;1º Semestre;Transferido;S;F;0;0;0;1;0;0;0;1
+12;Matemática;2016;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2016;1º Semestre;Transferido;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2016;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2016;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2016;1º Semestre;Formado;N;F;1;0;0;0;0;0;1;2
+12 L;Matemática - Licenciatura;2016;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2016;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+16;Estatística;2016;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2016;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2016;1º Semestre;Desistência;N;F;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2016;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2016;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2016;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2016;1º Semestre;Formado;N;F;3;1;0;5;0;0;0;9
+32 B;Química - Bacharelado;2016;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2016;1º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2016;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2016;1º Semestre;Transferido;N;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2016;1º Semestre;Transferido;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2016;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2016;2º Semestre;Desistência;N;F;4;0;0;0;0;0;0;4
+10 B;Física - Bacharelado;2016;2º Semestre;Desistência;N;M;3;0;0;2;1;0;0;6
+10 B;Física - Bacharelado;2016;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2016;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2016;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2016;2º Semestre;Formado;N;M;3;0;0;1;0;0;1;5
+10 B;Física - Bacharelado;2016;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2016;2º Semestre;Reopção de curso;N;M;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2016;2º Semestre;Desistência;N;M;0;0;0;2;1;0;1;4
+10 L;Física - Licenciatura;2016;2º Semestre;Desistência;S;F;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2016;2º Semestre;Desistência;S;M;1;1;0;2;0;0;0;4
+10 L;Física - Licenciatura;2016;2º Semestre;Desligamento por Abandono;N;M;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2016;2º Semestre;Transferido;N;M;1;0;0;1;0;0;0;2
+12;Matemática;2016;2º Semestre;Desistência;N;F;1;0;0;2;0;0;0;3
+12;Matemática;2016;2º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+12;Matemática;2016;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2016;2º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+12;Matemática;2016;2º Semestre;Desligamento por Abandono;N;M;3;0;0;1;0;0;1;5
+12;Matemática;2016;2º Semestre;Reopção de curso;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2016;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2016;2º Semestre;Desligamento por Abandono;N;F;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2016;2º Semestre;Desligamento por Abandono;N;M;2;0;0;2;0;0;1;5
+12 L;Matemática - Licenciatura;2016;2º Semestre;Formado;N;M;0;0;0;2;0;0;0;2
+16;Estatística;2016;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2016;2º Semestre;Desistência;N;M;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2016;2º Semestre;Desistência;N;F;5;0;0;0;0;0;0;5
+32 B;Química - Bacharelado;2016;2º Semestre;Desistência;N;M;2;0;0;2;0;0;0;4
+32 B;Química - Bacharelado;2016;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2016;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2016;2º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2016;2º Semestre;Formado;S;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2016;2º Semestre;Reopção de curso;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2016;2º Semestre;Transferido;N;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2016;2º Semestre;Transferido;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2016;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2016;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2016;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2016;2º Semestre;Reopção de curso;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2017;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2017;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento por Abandono;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento por Abandono;N;M;3;0;0;3;1;0;0;7
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento por Abandono;S;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;2;1;0;0;0;0;1;4
+10 B;Física - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2017;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2017;1º Semestre;Transferido;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2017;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2017;1º Semestre;Desligamento por Abandono;N;M;0;3;0;0;0;0;0;3
+10 L;Física - Licenciatura;2017;1º Semestre;Desligamento por Abandono;S;M;1;0;1;1;0;0;0;3
+10 L;Física - Licenciatura;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;4;2;0;2;0;0;0;8
+10 L;Física - Licenciatura;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;F;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2017;1º Semestre;Formado;N;F;3;0;0;0;0;0;0;3
+10 L;Física - Licenciatura;2017;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2017;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2017;1º Semestre;Transferido;N;M;0;1;0;0;0;0;0;1
+12;Matemática;2017;1º Semestre;Desistência;N;M;1;0;1;1;0;0;0;3
+12;Matemática;2017;1º Semestre;Transferido;N;M;0;1;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2017;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2017;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2017;1º Semestre;Desligamento por Abandono;N;F;3;0;0;1;0;0;0;4
+16;Estatística;2017;1º Semestre;Desligamento por Abandono;N;M;3;0;1;4;0;0;0;8
+16;Estatística;2017;1º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+16;Estatística;2017;1º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2017;1º Semestre;Desistência;N;M;0;0;0;0;0;0;1;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento por Abandono;N;F;3;0;0;2;0;0;0;5
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento por Abandono;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento por Abandono;S;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: 3 reprovações em 1 disciplina;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: Descumpriu Plano de Estudos;N;F;1;1;0;1;0;0;0;3
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: Descumpriu Plano de Estudos;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Desligamento: Descumpriu Plano de Estudos;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2017;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2017;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2017;1º Semestre;Desistência;S;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2017;1º Semestre;Desligamento por Abandono;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;1º Semestre;Desligamento por Abandono;N;M;0;1;0;2;0;0;0;3
+32 L;Química - Licenciatura;2017;1º Semestre;Desligamento: Descumpriu Plano de Estudos;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2017;1º Semestre;Formado;N;F;0;0;0;2;0;0;0;2
+32 L;Química - Licenciatura;2017;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2017;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2017;2º Semestre;Desistência;N;M;5;0;0;2;0;0;0;7
+10 B;Física - Bacharelado;2017;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2017;2º Semestre;Formado;N;M;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2017;2º Semestre;Formado;S;M;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2017;2º Semestre;Reopção de curso;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2017;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2017;2º Semestre;Formado;N;M;2;0;0;2;0;0;1;5
+10 L;Física - Licenciatura;2017;2º Semestre;Formado;S;M;0;0;0;2;0;0;0;2
+10 L;Física - Licenciatura;2017;2º Semestre;Reopção de curso;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2017;2º Semestre;Reopção de curso;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2017;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+12;Matemática;2017;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+12;Matemática;2017;2º Semestre;Desistência;S;M;2;0;0;0;0;0;0;2
+12;Matemática;2017;2º Semestre;Reopção de curso;N;M;3;0;0;0;0;0;0;3
+12 B;Matemática - Bacharelado;2017;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2017;2º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2017;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2017;2º Semestre;Formado;N;F;1;1;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2017;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2017;2º Semestre;Formado;S;F;1;0;1;1;0;0;0;3
+16;Estatística;2017;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2017;2º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2017;2º Semestre;Desistência;N;M;3;1;0;0;0;0;0;4
+32 B;Química - Bacharelado;2017;2º Semestre;Desistência;S;F;1;1;0;1;0;0;0;3
+32 B;Química - Bacharelado;2017;2º Semestre;Formado;N;F;5;1;0;2;0;0;0;8
+32 B;Química - Bacharelado;2017;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2017;2º Semestre;Formado;S;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2017;2º Semestre;Formado;S;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2017;2º Semestre;Nulidade da matrícula - ato administrativo;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;2º Semestre;Desistência;N;M;3;0;0;0;0;0;0;3
+32 L;Química - Licenciatura;2017;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2017;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2017;2º Semestre;Formado;S;F;0;0;0;0;0;0;1;1
+32 L;Química - Licenciatura;2017;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2018;1º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2018;1º Semestre;Desistência;N;M;3;0;0;2;0;0;0;5
+10 B;Física - Bacharelado;2018;1º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+10 B;Física - Bacharelado;2018;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2018;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2018;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+10 B;Física - Bacharelado;2018;1º Semestre;Nulidade da matrícula - ato administrativo;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2018;1º Semestre;Reopção de curso;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2018;1º Semestre;Reopção de curso;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2018;1º Semestre;Desistência;N;M;0;1;0;2;0;0;1;4
+10 L;Física - Licenciatura;2018;1º Semestre;Desistência;S;M;2;0;1;0;0;0;0;3
+10 L;Física - Licenciatura;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2018;1º Semestre;Reopção de curso;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2018;1º Semestre;Reopção de curso;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2018;1º Semestre;Reopção de curso;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2018;1º Semestre;Reopção de curso;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2018;1º Semestre;Desistência;N;M;3;1;0;3;0;0;0;7
+12;Matemática;2018;1º Semestre;Desistência;S;F;3;0;0;0;0;0;0;3
+12;Matemática;2018;1º Semestre;Desistência;S;M;0;0;0;3;0;0;0;3
+12 B;Matemática - Bacharelado;2018;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2018;1º Semestre;Reopção de curso;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2018;1º Semestre;Reopção de curso;S;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2018;1º Semestre;Formado;N;F;0;1;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2018;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2018;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2018;1º Semestre;Desistência;N;M;0;0;0;0;0;0;1;1
+16;Estatística;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2018;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2018;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+16;Estatística;2018;1º Semestre;Reopção de curso;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2018;1º Semestre;Reopção de curso;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2018;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2018;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2018;1º Semestre;Desistência;S;M;0;0;0;1;0;0;1;2
+32 B;Química - Bacharelado;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;2;0;1;0;0;0;5
+32 B;Química - Bacharelado;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Formado;N;F;4;0;0;0;0;0;0;4
+32 B;Química - Bacharelado;2018;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Formado;S;F;1;1;0;1;0;0;0;3
+32 B;Química - Bacharelado;2018;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Remanejamento SISU;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Reopção de curso;N;F;0;0;1;0;0;0;0;1
+32 B;Química - Bacharelado;2018;1º Semestre;Reopção de curso;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;1º Semestre;Desistência;N;F;0;0;0;2;0;0;0;2
+32 L;Química - Licenciatura;2018;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;1º Semestre;Formado;N;F;1;0;0;2;0;0;0;3
+32 L;Química - Licenciatura;2018;1º Semestre;Formado;N;M;0;1;0;1;0;0;0;2
+32 L;Química - Licenciatura;2018;1º Semestre;Reopção de curso;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2018;2º Semestre;Desistência;N;F;2;0;0;1;0;0;0;3
+10 B;Física - Bacharelado;2018;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2018;2º Semestre;Desistência;S;M;1;0;0;3;0;0;0;4
+10 B;Física - Bacharelado;2018;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2018;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2018;2º Semestre;Formado;N;M;3;2;0;1;0;0;0;6
+10 B;Física - Bacharelado;2018;2º Semestre;Formado;S;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2018;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2018;2º Semestre;Desistência;N;M;0;0;0;4;0;0;0;4
+10 L;Física - Licenciatura;2018;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2018;2º Semestre;Formado;N;M;2;1;0;0;0;0;0;3
+12;Matemática;2018;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+12;Matemática;2018;2º Semestre;Desistência;N;M;3;0;0;0;0;0;0;3
+12;Matemática;2018;2º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+12;Matemática;2018;2º Semestre;Desistência;S;M;1;0;0;2;0;0;0;3
+12;Matemática;2018;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2018;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2018;2º Semestre;Formado;N;M;0;0;0;2;0;0;0;2
+12 B;Matemática - Bacharelado;2018;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2018;2º Semestre;Formado;N;F;1;1;0;2;0;0;0;4
+12 L;Matemática - Licenciatura;2018;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2018;2º Semestre;Formado;S;F;0;0;0;3;0;0;0;3
+12 L;Matemática - Licenciatura;2018;2º Semestre;Formado;S;M;0;0;1;1;0;0;0;2
+16;Estatística;2018;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2018;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2018;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2018;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2018;2º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2018;2º Semestre;Desistência;S;F;1;1;0;1;0;0;1;4
+32 B;Química - Bacharelado;2018;2º Semestre;Desistência;S;M;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2018;2º Semestre;Formado;N;F;1;1;0;1;0;0;0;3
+32 B;Química - Bacharelado;2018;2º Semestre;Formado;N;M;1;2;0;2;0;0;1;6
+32 B;Química - Bacharelado;2018;2º Semestre;Formado;S;F;0;1;0;2;0;0;0;3
+32 B;Química - Bacharelado;2018;2º Semestre;Formado;S;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2018;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2018;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;2º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2018;2º Semestre;Formado;S;F;0;1;0;2;0;0;0;3
+10 B;Física - Bacharelado;2019;1º Semestre;Desistência;N;F;3;0;0;3;0;0;0;6
+10 B;Física - Bacharelado;2019;1º Semestre;Desistência;N;M;6;1;0;2;0;0;0;9
+10 B;Física - Bacharelado;2019;1º Semestre;Desistência;S;F;1;0;0;5;0;0;0;6
+10 B;Física - Bacharelado;2019;1º Semestre;Desistência;S;M;4;3;0;3;0;0;0;10
+10 B;Física - Bacharelado;2019;1º Semestre;Desistência;S;N;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2019;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2019;1º Semestre;Reopção de curso;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2019;1º Semestre;Reopção de curso;N;M;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;1º Semestre;Reopção de curso;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2019;1º Semestre;Reopção de curso;S;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2019;1º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+10 L;Física - Licenciatura;2019;1º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2019;1º Semestre;Desistência;S;F;0;1;1;1;0;0;1;4
+10 L;Física - Licenciatura;2019;1º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;4;0;0;0;5
+10 L;Física - Licenciatura;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2019;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2019;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2019;1º Semestre;Adaptação Curricular;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2019;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12;Matemática;2019;1º Semestre;Desistência;N;M;1;1;0;0;0;0;1;3
+12;Matemática;2019;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+12;Matemática;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;4;0;0;1;6
+12;Matemática;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;6;0;0;4;0;0;1;11
+12;Matemática;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;0;0;0;1;1
+12;Matemática;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;0;2;0;0;0;2
+12;Matemática;2019;1º Semestre;Reopção de curso;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2019;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2019;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;0;0;1;0;0;1;2
+12 B;Matemática - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;2;4;0;2;0;0;0;8
+12 B;Matemática - Bacharelado;2019;1º Semestre;Formado;N;F;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2019;1º Semestre;Adaptação Curricular;N;M;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2019;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+12 L;Matemática - Licenciatura;2019;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2019;1º Semestre;Formado;N;F;5;0;0;1;0;0;0;6
+12 L;Matemática - Licenciatura;2019;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2019;1º Semestre;Adaptação Curricular;N;F;2;0;0;1;0;0;0;3
+16;Estatística;2019;1º Semestre;Adaptação Curricular;N;M;2;0;0;2;0;0;0;4
+16;Estatística;2019;1º Semestre;Adaptação Curricular;S;F;1;0;0;2;0;0;0;3
+16;Estatística;2019;1º Semestre;Adaptação Curricular;S;M;1;0;0;1;0;0;0;2
+16;Estatística;2019;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2019;1º Semestre;Desistência;N;M;4;2;0;1;0;0;0;7
+16;Estatística;2019;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+16;Estatística;2019;1º Semestre;Desistência;S;M;3;1;0;1;0;0;0;5
+16;Estatística;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;3;0;0;1;0;0;0;4
+16;Estatística;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;1;0;1;0;0;0;2
+16;Estatística;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;0;0;0;0;1
+16;Estatística;2019;1º Semestre;Formado;N;F;3;0;0;0;0;0;0;3
+16;Estatística;2019;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2019;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2019;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+16;Estatística;2019;1º Semestre;Transferido;S;M;0;0;0;1;0;0;0;1
+32;Química;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Desistência;N;F;5;0;0;1;0;0;0;6
+32 B;Química - Bacharelado;2019;1º Semestre;Desistência;N;M;1;1;0;2;0;0;0;4
+32 B;Química - Bacharelado;2019;1º Semestre;Desistência;S;F;0;0;0;4;0;0;0;4
+32 B;Química - Bacharelado;2019;1º Semestre;Desistência;S;M;3;0;0;4;0;0;0;7
+32 B;Química - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Formado;N;M;2;0;0;2;0;0;0;4
+32 B;Química - Bacharelado;2019;1º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Reopção de curso;N;F;1;0;0;0;0;0;1;2
+32 B;Química - Bacharelado;2019;1º Semestre;Reopção de curso;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2019;1º Semestre;Reopção de curso;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;1º Semestre;Reopção de curso;S;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2019;1º Semestre;Desistência;N;F;4;0;0;0;0;0;0;4
+32 L;Química - Licenciatura;2019;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2019;1º Semestre;Desistência;S;F;1;0;0;2;0;0;0;3
+32 L;Química - Licenciatura;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2019;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2019;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2019;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2019;1º Semestre;Reopção de curso;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;2º Semestre;Desistência;N;F;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2019;2º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2019;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;4;0;0;5;0;0;0;9
+10 B;Física - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;2;0;6;0;0;0;8
+10 B;Física - Bacharelado;2019;2º Semestre;Formado;N;F;3;0;0;1;0;0;0;4
+10 B;Física - Bacharelado;2019;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2019;2º Semestre;Desistência;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2019;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;4;0;0;2;0;0;0;6
+10 L;Física - Licenciatura;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2019;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2019;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2019;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+12;Matemática;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2019;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2019;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2019;2º Semestre;Formado;N;M;1;0;0;0;0;0;1;2
+12 B;Matemática - Bacharelado;2019;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2019;2º Semestre;Formado;N;M;2;0;0;0;0;0;1;3
+16;Estatística;2019;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2019;2º Semestre;Desistência;N;M;2;0;0;1;0;0;0;3
+16;Estatística;2019;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2019;2º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+16;Estatística;2019;2º Semestre;Formado;S;F;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2019;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;1;0;2;0;0;0;3
+32 B;Química - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;1;0;1;0;0;0;3
+32 B;Química - Bacharelado;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2019;2º Semestre;Formado;N;F;2;1;0;2;0;0;0;5
+32 B;Química - Bacharelado;2019;2º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2019;2º Semestre;Formado;S;F;1;0;0;3;0;0;0;4
+32 B;Química - Bacharelado;2019;2º Semestre;Formado;S;M;4;0;0;2;0;0;0;6
+32 L;Química - Licenciatura;2019;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2019;2º Semestre;Formado;N;F;1;0;0;2;0;0;0;3
+32 L;Química - Licenciatura;2019;2º Semestre;Formado;N;M;1;0;0;0;0;0;1;2
+32 L;Química - Licenciatura;2019;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+16;Estatística;2019;Anual;Desistência;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2019;Anual;Desistência;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2019;Anual;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Adaptação Curricular;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2020;1º Semestre;Adaptação Curricular;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Adaptação Curricular;S;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2020;1º Semestre;Desistência;N;F;3;0;0;3;0;0;0;6
+10 B;Física - Bacharelado;2020;1º Semestre;Desistência;N;M;10;1;1;3;0;0;1;16
+10 B;Física - Bacharelado;2020;1º Semestre;Desistência;S;F;0;0;0;4;0;0;0;4
+10 B;Física - Bacharelado;2020;1º Semestre;Desistência;S;M;3;2;0;2;0;0;0;7
+10 B;Física - Bacharelado;2020;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Formado;N;F;3;1;0;0;0;0;0;4
+10 B;Física - Bacharelado;2020;1º Semestre;Formado;N;M;3;0;0;1;0;0;0;4
+10 B;Física - Bacharelado;2020;1º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Reopção de Curso;N;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2020;1º Semestre;Reopção de Curso;S;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;1º Semestre;Reopção de Curso;S;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2020;1º Semestre;Reopção de Curso;S;N;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2020;1º Semestre;Adaptação Curricular;N;F;0;0;0;2;0;0;1;3
+10 L;Física - Licenciatura;2020;1º Semestre;Adaptação Curricular;N;M;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2020;1º Semestre;Adaptação Curricular;S;F;1;0;0;3;0;0;0;4
+10 L;Física - Licenciatura;2020;1º Semestre;Adaptação Curricular;S;M;1;0;0;3;0;0;0;4
+10 L;Física - Licenciatura;2020;1º Semestre;Desistência;N;F;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2020;1º Semestre;Desistência;N;M;4;1;0;2;0;0;0;7
+10 L;Física - Licenciatura;2020;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2020;1º Semestre;Desistência;S;M;1;1;0;2;0;0;0;4
+10 L;Física - Licenciatura;2020;1º Semestre;Formado;N;F;0;0;0;0;0;0;1;1
+10 L;Física - Licenciatura;2020;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2020;1º Semestre;Reopção de Curso;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2020;1º Semestre;Reopção de Curso;S;M;0;0;0;1;0;0;0;1
+12;Matemática;2020;1º Semestre;Adaptação Curricular;S;M;0;1;0;1;0;0;0;2
+12;Matemática;2020;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12;Matemática;2020;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2020;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+12;Matemática;2020;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2020;1º Semestre;Desistência;S;M;2;1;0;2;0;0;0;5
+12 B;Matemática - Bacharelado;2020;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2020;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2020;1º Semestre;Desistência;N;M;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2020;1º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2020;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2020;1º Semestre;Formado;S;F;0;0;0;2;0;0;0;2
+12 L;Matemática - Licenciatura;2020;1º Semestre;Matricula desativada;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2020;1º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2020;1º Semestre;Adaptação Curricular;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2020;1º Semestre;Desistência;N;F;0;0;0;0;0;0;1;1
+16;Estatística;2020;1º Semestre;Desistência;N;M;3;1;0;3;0;0;0;7
+16;Estatística;2020;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+16;Estatística;2020;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2020;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2020;1º Semestre;Formado;N;M;0;0;1;2;0;0;0;3
+32 B;Química - Bacharelado;2020;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2020;1º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2020;1º Semestre;Desistência;S;F;0;1;0;2;0;0;0;3
+32 B;Química - Bacharelado;2020;1º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2020;1º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2020;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2020;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2020;1º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2020;1º Semestre;Desistência;S;M;0;1;0;1;0;0;0;2
+32 L;Química - Licenciatura;2020;1º Semestre;Reopção de Curso;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2020;2º Semestre;Adaptação Curricular;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2020;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2020;2º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2020;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2020;2º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2020;2º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2020;2º Semestre;Formado;N;M;4;1;0;1;0;0;0;6
+10 B;Física - Bacharelado;2020;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2020;2º Semestre;Desistência;N;F;1;1;0;1;0;0;0;3
+10 L;Física - Licenciatura;2020;2º Semestre;Desistência;N;M;3;1;0;1;0;0;0;5
+10 L;Física - Licenciatura;2020;2º Semestre;Desistência;S;M;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2020;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2020;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2020;2º Semestre;Transferência;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2020;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2020;2º Semestre;Desistência;N;M;0;0;0;2;0;0;0;2
+12 B;Matemática - Bacharelado;2020;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2020;2º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2020;2º Semestre;Formado;N;M;1;0;0;2;0;0;0;3
+12 B;Matemática - Bacharelado;2020;2º Semestre;Formado;S;F;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2020;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2020;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2020;2º Semestre;Formado;N;M;1;1;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2020;2º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2020;2º Semestre;Formado;S;M;2;0;0;1;0;0;0;3
+16;Estatística;2020;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+16;Estatística;2020;2º Semestre;Desistência;N;M;0;1;0;1;0;0;0;2
+16;Estatística;2020;2º Semestre;Desistência;N;N;1;0;0;0;0;0;0;1
+16;Estatística;2020;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2020;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2020;2º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+16;Estatística;2020;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2020;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2020;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2020;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2020;2º Semestre;Desistência;N;N;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2020;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2020;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2020;2º Semestre;Desistência;N;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2020;2º Semestre;Desistência;S;F;0;1;0;2;0;0;0;3
+32 L;Química - Licenciatura;2020;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2021;1º Semestre;Desistência;N;F;4;0;0;0;0;0;0;4
+10 B;Física - Bacharelado;2021;1º Semestre;Desistência;N;M;4;0;0;0;0;0;0;4
+10 B;Física - Bacharelado;2021;1º Semestre;Desistência;S;F;1;2;0;0;0;0;0;3
+10 B;Física - Bacharelado;2021;1º Semestre;Desistência;S;M;3;0;0;7;0;0;1;11
+10 B;Física - Bacharelado;2021;1º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2021;1º Semestre;Formado;N;M;3;0;0;1;0;0;0;4
+10 B;Física - Bacharelado;2021;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2021;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2021;1º Semestre;Desistência;N;M;2;2;0;4;0;0;0;8
+10 L;Física - Licenciatura;2021;1º Semestre;Desistência;S;F;0;1;0;0;1;0;0;2
+10 L;Física - Licenciatura;2021;1º Semestre;Desistência;S;M;3;1;0;3;0;0;0;7
+12;Matemática;2021;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2021;1º Semestre;Desistência;N;M;3;1;0;2;0;0;0;6
+12 B;Matemática - Bacharelado;2021;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2021;1º Semestre;Desistência;S;M;0;1;0;2;0;0;0;3
+12 B;Matemática - Bacharelado;2021;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2021;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2021;1º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+12 L;Matemática - Licenciatura;2021;1º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+12 L;Matemática - Licenciatura;2021;1º Semestre;Formado;N;M;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2021;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2021;1º Semestre;Desistência;N;F;0;1;0;0;0;0;0;1
+16;Estatística;2021;1º Semestre;Desistência;N;M;4;0;0;2;0;0;0;6
+16;Estatística;2021;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+16;Estatística;2021;1º Semestre;Desistência;S;M;2;1;0;1;0;0;0;4
+16;Estatística;2021;1º Semestre;Formado;N;F;3;0;0;0;0;0;0;3
+16;Estatística;2021;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2021;1º Semestre;Formado;S;F;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2021;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2021;1º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+32 B;Química - Bacharelado;2021;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2021;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2021;1º Semestre;Formado;N;F;1;0;0;3;0;0;0;4
+32 B;Química - Bacharelado;2021;1º Semestre;Formado;N;M;2;0;0;0;0;0;1;3
+32 B;Química - Bacharelado;2021;1º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2021;1º Semestre;Adaptação Curricular;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2021;1º Semestre;Adaptação Curricular;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2021;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2021;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2021;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2021;1º Semestre;Formado;N;F;1;1;0;0;0;0;0;2
+32 L;Química - Licenciatura;2021;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2021;2º Semestre;Desistência;N;M;3;0;0;1;0;0;1;5
+10 B;Física - Bacharelado;2021;2º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+10 B;Física - Bacharelado;2021;2º Semestre;Desistência;S;M;2;1;0;2;0;0;0;5
+10 B;Física - Bacharelado;2021;2º Semestre;Desistência;S;N;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;1;0;0;1;3
+10 B;Física - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;5;0;0;5;0;0;0;10
+10 B;Física - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;3;0;0;0;3
+10 B;Física - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;2;0;3;0;0;0;6
+10 B;Física - Bacharelado;2021;2º Semestre;Formado;N;M;6;1;0;0;0;0;0;7
+10 L;Física - Licenciatura;2021;2º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2021;2º Semestre;Desistência;N;M;0;1;0;1;0;0;1;3
+10 L;Física - Licenciatura;2021;2º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;6;0;0;3;0;0;0;9
+10 L;Física - Licenciatura;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;1;2;0;0;0;4
+10 L;Física - Licenciatura;2021;2º Semestre;Formado;N;M;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2021;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2021;2º Semestre;Transferido;N;M;0;0;0;1;0;0;0;1
+12;Matemática;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;0;0;1;0;0;0;1
+12;Matemática;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;5;0;0;0;0;0;1;6
+12;Matemática;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;2;0;0;0;3
+12;Matemática;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;2;0;0;1;0;0;1;4
+12 B;Matemática - Bacharelado;2021;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2021;2º Semestre;Desistência;N;N;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2021;2º Semestre;Desistência;S;F;2;1;0;1;0;0;0;4
+12 B;Matemática - Bacharelado;2021;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2021;2º Semestre;Formado;N;F;3;0;0;1;0;0;0;4
+12 B;Matemática - Bacharelado;2021;2º Semestre;Formado;N;M;4;0;0;1;0;0;0;5
+12 B;Matemática - Bacharelado;2021;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2021;2º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2021;2º Semestre;Desistência;N;M;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2021;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2021;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2021;2º Semestre;Formado;N;F;4;0;0;0;0;0;0;4
+12 L;Matemática - Licenciatura;2021;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2021;2º Semestre;Formado;S;M;1;2;0;2;0;0;0;5
+16;Estatística;2021;2º Semestre;Desistência;N;M;0;1;0;0;0;0;0;1
+16;Estatística;2021;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+16;Estatística;2021;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;1;2
+16;Estatística;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;3;0;0;3;0;0;1;7
+16;Estatística;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;2;0;0;0;2
+16;Estatística;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;2;0;0;0;3
+16;Estatística;2021;2º Semestre;Formado;S;F;1;0;0;1;0;0;0;2
+16;Estatística;2021;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2021;2º Semestre;Desistência;N;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2021;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2021;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2021;2º Semestre;Desistência;S;M;0;0;0;3;0;0;0;3
+32 B;Química - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2021;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2021;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2021;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2021;2º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2021;2º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2021;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2021;Anual;Desistência;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2021;Anual;Desistência;S;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2022;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2022;1º Semestre;Desistência;N;M;6;0;0;0;0;0;0;6
+10 B;Física - Bacharelado;2022;1º Semestre;Desistência;S;F;2;0;0;1;0;0;0;3
+10 B;Física - Bacharelado;2022;1º Semestre;Desistência;S;M;4;1;0;4;0;0;0;9
+10 B;Física - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;8;0;0;2;0;0;2;12
+10 B;Física - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;4;0;0;0;5
+10 B;Física - Bacharelado;2022;1º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2022;1º Semestre;Formado;N;M;4;0;0;1;0;0;0;5
+10 B;Física - Bacharelado;2022;1º Semestre;Formado;S;F;2;1;0;0;0;0;0;3
+10 B;Física - Bacharelado;2022;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2022;1º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Desistência;N;M;3;0;0;3;0;0;0;6
+10 L;Física - Licenciatura;2022;1º Semestre;Desistência;N;N;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Desistência;S;F;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2022;1º Semestre;Desistência;S;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;6;0;1;4;0;0;2;13
+10 L;Física - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;0;7;0;0;0;7
+10 L;Física - Licenciatura;2022;1º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+10 L;Física - Licenciatura;2022;1º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2022;1º Semestre;Reopção de Curso;S;F;0;0;0;1;0;0;0;1
+12;Matemática;2022;1º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+12;Matemática;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;1;2
+12;Matemática;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;2;0;0;3;0;0;1;6
+12;Matemática;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;0;0;0;0;1
+12;Matemática;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;0;2;0;0;0;2
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desistência;S;F;0;2;0;1;0;0;0;3
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desistência;S;M;1;3;0;3;0;0;0;7
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;0;0;1;0;0;1;2
+12 B;Matemática - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;1;1;0;0;0;2
+12 B;Matemática - Bacharelado;2022;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2022;1º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2022;1º Semestre;Desistência;N;F;4;0;0;1;0;0;0;5
+12 L;Matemática - Licenciatura;2022;1º Semestre;Desistência;N;M;1;2;0;0;0;0;0;3
+12 L;Matemática - Licenciatura;2022;1º Semestre;Desistência;S;F;0;2;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2022;1º Semestre;Desistência;S;M;0;2;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;1;2
+12 L;Matemática - Licenciatura;2022;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2022;1º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+16;Estatística;2022;1º Semestre;Desistência;N;M;5;0;0;2;0;0;0;7
+16;Estatística;2022;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+16;Estatística;2022;1º Semestre;Desistência;S;M;4;2;0;2;0;0;0;8
+16;Estatística;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;1;0;0;0;2
+16;Estatística;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;9;1;0;3;0;0;0;13
+16;Estatística;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;3;0;0;0;3
+16;Estatística;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;2;1;0;4;0;0;0;7
+16;Estatística;2022;1º Semestre;Formado;N;M;0;0;0;0;0;0;1;1
+16;Estatística;2022;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;1º Semestre;Desistência;N;F;3;1;0;1;0;0;0;5
+32 B;Química - Bacharelado;2022;1º Semestre;Desistência;N;M;3;0;0;2;0;0;0;5
+32 B;Química - Bacharelado;2022;1º Semestre;Desistência;S;F;3;0;0;5;0;0;0;8
+32 B;Química - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;3;0;0;1;0;0;0;4
+32 B;Química - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;3;0;0;2;0;0;1;6
+32 B;Química - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;N;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;3;1;0;2;0;0;0;6
+32 B;Química - Bacharelado;2022;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2022;1º Semestre;Formado;S;F;2;0;0;1;0;0;0;3
+32 B;Química - Bacharelado;2022;1º Semestre;Reopção de Curso;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;1º Semestre;Reopção de Curso;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;1º Semestre;Reopção de Curso;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2022;1º Semestre;Desistência;N;F;0;1;0;1;0;0;0;2
+32 L;Química - Licenciatura;2022;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2022;1º Semestre;Desistência;S;F;1;2;0;2;0;0;0;5
+32 L;Química - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;0;0;2;0;0;0;4
+32 L;Química - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;2;1;0;1;0;0;0;4
+32 L;Química - Licenciatura;2022;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;1;0;1;0;0;0;2
+32 L;Química - Licenciatura;2022;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2022;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2022;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2022;1º Semestre;Reopção de Curso;S;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2022;2º Semestre;Desistência;N;M;4;0;0;1;0;0;0;5
+10 B;Física - Bacharelado;2022;2º Semestre;Desistência;S;M;0;2;0;1;0;0;0;3
+10 B;Física - Bacharelado;2022;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2022;2º Semestre;Formado;S;F;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2022;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2022;2º Semestre;Desistência;N;M;1;0;0;3;0;0;1;5
+10 L;Física - Licenciatura;2022;2º Semestre;Desistência;N;N;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2022;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2022;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2022;2º Semestre;Formado;N;M;3;0;0;2;0;0;0;5
+12 B;Matemática - Bacharelado;2022;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2022;2º Semestre;Desistência;N;M;0;0;1;1;0;0;0;2
+12 B;Matemática - Bacharelado;2022;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Formado;N;F;0;1;1;0;0;0;0;2
+12 L;Matemática - Licenciatura;2022;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2022;2º Semestre;Formado;S;F;1;0;0;2;0;0;0;3
+12 L;Matemática - Licenciatura;2022;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+16;Estatística;2022;2º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+16;Estatística;2022;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2022;2º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+16;Estatística;2022;2º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;1;0;0;0;0;0;1
+16;Estatística;2022;2º Semestre;Formado;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2022;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2022;2º Semestre;Formado;S;F;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2022;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;2º Semestre;Desistência;N;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;2º Semestre;Desistência;S;F;1;1;0;0;0;0;0;2
+32 B;Química - Bacharelado;2022;2º Semestre;Desistência;S;M;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2022;2º Semestre;Formado;N;F;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2022;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2022;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2022;2º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2023;1º Semestre;Desistência;N;F;2;0;0;0;0;0;1;3
+10 B;Física - Bacharelado;2023;1º Semestre;Desistência;N;M;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2023;1º Semestre;Desistência;S;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2023;1º Semestre;Desistência;S;M;2;1;0;1;0;0;0;4
+10 B;Física - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;1;0;0;0;0;0;2
+10 B;Física - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;8;0;0;1;0;0;0;9
+10 B;Física - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;1;0;2;0;0;0;3
+10 B;Física - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;1;0;10;0;0;0;12
+10 B;Física - Bacharelado;2023;1º Semestre;Formado;N;F;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2023;1º Semestre;Formado;N;M;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2023;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2023;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;1º Semestre;Desistência;N;M;2;0;0;4;1;0;0;7
+10 L;Física - Licenciatura;2023;1º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2023;1º Semestre;Desistência;S;M;2;3;0;2;0;0;0;7
+10 L;Física - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;1;1;2;0;0;0;6
+10 L;Física - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;9;1;0;8;0;0;0;18
+10 L;Física - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;N;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;2;0;0;0;3
+10 L;Física - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;2;2;0;4;0;0;0;8
+10 L;Física - Licenciatura;2023;1º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+10 L;Física - Licenciatura;2023;1º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;1º Semestre;Formado;S;M;1;1;0;0;0;0;0;2
+12;Matemática;2023;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12;Matemática;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;0;0;0;0;1
+12;Matemática;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;3;0;0;0;4
+12;Matemática;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;1;0;0;0;1
+12;Matemática;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;1;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2023;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2023;1º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2023;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;0;0;1;0;0;0;2
+12 B;Matemática - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;0;0;0;0;0;1;1
+12 B;Matemática - Bacharelado;2023;1º Semestre;Formado;N;F;1;1;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2023;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desistência;N;M;3;0;0;2;0;0;0;5
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desistência;S;F;0;0;0;3;0;0;0;3
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;1;1;0;4;0;0;0;6
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;0;0;0;3;0;0;0;3
+12 L;Matemática - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;0;0;3;0;0;0;4
+12 L;Matemática - Licenciatura;2023;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2023;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2023;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2023;1º Semestre;Transferência;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2023;1º Semestre;Desistência;N;F;3;1;0;0;0;0;0;4
+16;Estatística;2023;1º Semestre;Desistência;N;M;2;0;0;2;0;0;0;4
+16;Estatística;2023;1º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+16;Estatística;2023;1º Semestre;Desistência;S;M;3;1;0;3;0;0;0;7
+16;Estatística;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;0;0;1;0;0;1;4
+16;Estatística;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;10;1;0;7;0;0;1;19
+16;Estatística;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;1;0;3;0;0;0;5
+16;Estatística;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;5;2;0;3;0;0;0;10
+16;Estatística;2023;1º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+16;Estatística;2023;1º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2023;1º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2023;1º Semestre;Conclusão de Aluno Especial;N;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2023;1º Semestre;Desistência;N;F;1;0;0;2;0;0;0;3
+32 B;Química - Bacharelado;2023;1º Semestre;Desistência;N;M;3;2;0;0;0;0;0;5
+32 B;Química - Bacharelado;2023;1º Semestre;Desistência;S;F;2;1;0;0;0;0;0;3
+32 B;Química - Bacharelado;2023;1º Semestre;Desistência;S;M;2;1;0;2;0;0;0;5
+32 B;Química - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;1;0;1;0;0;0;4
+32 B;Química - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;M;1;0;0;0;0;0;1;2
+32 B;Química - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;1;2;0;2;0;0;0;5
+32 L;Química - Licenciatura;2023;1º Semestre;Desistência;N;F;1;1;0;2;0;0;0;4
+32 L;Química - Licenciatura;2023;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;N;F;2;0;0;0;0;0;0;2
+32 L;Química - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2023;1º Semestre;Desligamento: Resolução 68/2017-CEPE;S;M;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2023;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2023;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+10 B;Física - Bacharelado;2023;2º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2023;2º Semestre;Formado;N;F;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2023;2º Semestre;Formado;N;M;4;1;0;3;0;0;0;8
+10 B;Física - Bacharelado;2023;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2023;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2023;2º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;2º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2023;2º Semestre;Formado;N;F;1;0;0;1;0;0;1;3
+10 L;Física - Licenciatura;2023;2º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2023;2º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2023;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2023;2º Semestre;Desistência;N;N;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2023;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2023;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2023;2º Semestre;Formado;N;M;3;0;0;1;0;0;1;5
+12 L;Matemática - Licenciatura;2023;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2023;2º Semestre;Formado;N;F;3;1;0;0;0;0;0;4
+12 L;Matemática - Licenciatura;2023;2º Semestre;Formado;N;M;0;1;0;2;0;0;1;4
+12 L;Matemática - Licenciatura;2023;2º Semestre;Formado;S;F;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2023;2º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+16;Estatística;2023;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2023;2º Semestre;Desistência;N;M;2;0;0;2;0;0;0;4
+16;Estatística;2023;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+16;Estatística;2023;2º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+16;Estatística;2023;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2023;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2023;2º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2023;2º Semestre;Desistência;S;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2023;2º Semestre;Formado;N;F;4;1;0;4;0;0;0;9
+32 B;Química - Bacharelado;2023;2º Semestre;Formado;N;M;1;1;0;0;0;0;0;2
+32 B;Química - Bacharelado;2023;2º Semestre;Formado;S;F;2;0;0;2;0;0;0;4
+32 B;Química - Bacharelado;2023;2º Semestre;Formado;S;M;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2024;1º Semestre;Desistência;N;M;4;0;0;2;0;0;0;6
+10 B;Física - Bacharelado;2024;1º Semestre;Desistência;S;M;1;1;0;4;0;0;0;6
+10 B;Física - Bacharelado;2024;1º Semestre;Desligamento;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2024;1º Semestre;Desligamento;N;M;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2024;1º Semestre;Desligamento;S;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2024;1º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+10 B;Física - Bacharelado;2024;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2024;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2024;1º Semestre;Desistência;N;M;2;1;0;0;0;0;0;3
+10 L;Física - Licenciatura;2024;1º Semestre;Desistência;S;M;2;1;1;1;0;0;0;5
+10 L;Física - Licenciatura;2024;1º Semestre;Desligamento;N;F;0;0;1;0;0;0;0;1
+10 L;Física - Licenciatura;2024;1º Semestre;Desligamento;N;M;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2024;1º Semestre;Desligamento;S;F;1;1;0;1;0;0;0;3
+10 L;Física - Licenciatura;2024;1º Semestre;Desligamento;S;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2024;1º Semestre;Formado;N;F;1;0;0;1;0;0;0;2
+10 L;Física - Licenciatura;2024;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2024;1º Semestre;Formado;S;M;1;0;0;2;0;0;0;3
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desistência;S;F;0;1;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desistência;S;M;0;1;0;2;0;0;0;3
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desligamento;N;M;2;1;0;0;0;0;0;3
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desligamento;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2024;1º Semestre;Desligamento;S;M;0;1;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2024;1º Semestre;Transferido;N;M;1;0;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2024;1º Semestre;Desistência;N;F;3;0;0;0;0;0;0;3
+12 L;Matemática - Licenciatura;2024;1º Semestre;Desistência;N;M;0;1;0;0;0;0;0;1
+12 L;Matemática - Licenciatura;2024;1º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+12 L;Matemática - Licenciatura;2024;1º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2024;1º Semestre;Desligamento;S;F;0;1;0;1;0;0;0;2
+16;Estatística;2024;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2024;1º Semestre;Desistência;N;M;6;0;0;2;0;0;0;8
+16;Estatística;2024;1º Semestre;Desistência;S;F;1;2;0;3;0;0;0;6
+16;Estatística;2024;1º Semestre;Desistência;S;M;2;0;0;2;0;0;0;4
+16;Estatística;2024;1º Semestre;Desligamento;N;F;0;1;0;0;0;0;0;1
+16;Estatística;2024;1º Semestre;Desligamento;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2024;1º Semestre;Desligamento;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2024;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+16;Estatística;2024;1º Semestre;Formado;N;M;2;0;0;1;0;0;0;3
+16;Estatística;2024;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2024;1º Semestre;Desistência;N;F;3;0;0;1;0;0;0;4
+32 B;Química - Bacharelado;2024;1º Semestre;Desistência;N;M;3;0;0;0;0;0;0;3
+32 B;Química - Bacharelado;2024;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2024;1º Semestre;Desistência;S;M;0;1;0;0;0;0;0;1
+32 B;Química - Bacharelado;2024;1º Semestre;Formado;N;F;1;0;0;0;0;0;1;2
+32 B;Química - Bacharelado;2024;1º Semestre;Formado;N;M;2;0;0;1;0;0;1;4
+32 B;Química - Bacharelado;2024;1º Semestre;Formado;S;F;0;1;0;1;0;0;0;2
+32 B;Química - Bacharelado;2024;1º Semestre;Formado;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;1º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;1º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2024;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2024;2º Semestre;Desistência;N;M;4;0;0;2;0;0;0;6
+10 B;Física - Bacharelado;2024;2º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2024;2º Semestre;Formado;N;M;3;0;0;0;0;0;0;3
+10 B;Física - Bacharelado;2024;2º Semestre;Formado;S;M;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2024;2º Semestre;Desistência;N;F;2;0;0;1;0;0;0;3
+10 L;Física - Licenciatura;2024;2º Semestre;Desistência;N;M;2;1;0;1;0;0;0;4
+10 L;Física - Licenciatura;2024;2º Semestre;Desistência;N;N;0;0;0;1;0;0;0;1
+10 L;Física - Licenciatura;2024;2º Semestre;Desistência;S;F;0;1;0;1;0;0;0;2
+10 L;Física - Licenciatura;2024;2º Semestre;Desistência;S;M;1;1;0;0;0;0;0;2
+10 L;Física - Licenciatura;2024;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2024;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2024;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+12 B;Matemática - Bacharelado;2024;2º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2024;2º Semestre;Desistência;N;M;1;1;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2024;2º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2024;2º Semestre;Desistência;N;F;0;0;0;0;0;0;1;1
+12 L;Matemática - Licenciatura;2024;2º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+12 L;Matemática - Licenciatura;2024;2º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2024;2º Semestre;Formado;N;F;2;0;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2024;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+16;Estatística;2024;2º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+16;Estatística;2024;2º Semestre;Desistência;N;M;0;0;0;1;0;0;0;1
+16;Estatística;2024;2º Semestre;Desistência;S;F;2;1;0;0;0;0;0;3
+16;Estatística;2024;2º Semestre;Desistência;S;M;0;1;0;1;0;0;0;2
+16;Estatística;2024;2º Semestre;Formado;S;F;0;0;0;1;0;0;0;1
+16;Estatística;2024;2º Semestre;Formado;S;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2024;2º Semestre;Desistência;N;F;4;0;0;0;0;0;0;4
+32 B;Química - Bacharelado;2024;2º Semestre;Desistência;N;M;1;0;0;2;0;0;0;3
+32 B;Química - Bacharelado;2024;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2024;2º Semestre;Desistência;S;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2024;2º Semestre;Formado;N;F;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2024;2º Semestre;Formado;N;M;2;0;0;0;0;0;0;2
+32 B;Química - Bacharelado;2024;2º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;2º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+32 L;Química - Licenciatura;2024;2º Semestre;Desistência;N;M;0;0;0;2;0;0;0;2
+32 L;Química - Licenciatura;2024;2º Semestre;Desistência;S;F;0;0;0;1;0;0;0;1
+32 L;Química - Licenciatura;2024;2º Semestre;Desistência;S;M;0;2;0;0;0;0;0;2
+32 L;Química - Licenciatura;2024;2º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2024;2º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+10 B;Física - Bacharelado;2025;1º Semestre;Desistência;N;F;1;0;0;1;0;0;0;2
+10 B;Física - Bacharelado;2025;1º Semestre;Desistência;N;M;4;0;0;3;0;0;0;7
+10 B;Física - Bacharelado;2025;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+10 B;Física - Bacharelado;2025;1º Semestre;Desligamento;N;F;1;0;0;2;0;0;0;3
+10 B;Física - Bacharelado;2025;1º Semestre;Desligamento;N;M;10;0;0;1;0;0;0;11
+10 B;Física - Bacharelado;2025;1º Semestre;Desligamento;S;F;1;1;0;3;0;0;0;5
+10 B;Física - Bacharelado;2025;1º Semestre;Desligamento;S;M;3;3;0;7;0;0;0;13
+10 B;Física - Bacharelado;2025;1º Semestre;Formado;N;M;1;0;0;0;0;0;0;1
+10 B;Física - Bacharelado;2025;1º Semestre;Formado;S;M;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2025;1º Semestre;Desistência;N;F;1;1;0;1;0;0;0;3
+10 L;Física - Licenciatura;2025;1º Semestre;Desistência;N;M;3;1;0;2;0;0;0;6
+10 L;Física - Licenciatura;2025;1º Semestre;Desistência;S;M;3;2;0;1;0;0;0;6
+10 L;Física - Licenciatura;2025;1º Semestre;Desligamento;N;F;0;0;0;3;0;0;1;4
+10 L;Física - Licenciatura;2025;1º Semestre;Desligamento;N;M;11;1;1;3;0;0;2;18
+10 L;Física - Licenciatura;2025;1º Semestre;Desligamento;N;N;1;0;0;0;0;0;0;1
+10 L;Física - Licenciatura;2025;1º Semestre;Desligamento;S;F;0;1;0;0;0;0;0;1
+10 L;Física - Licenciatura;2025;1º Semestre;Desligamento;S;M;3;1;0;2;0;0;0;6
+12;Matemática;2025;1º Semestre;Desligamento;N;M;3;0;0;2;0;0;0;5
+12;Matemática;2025;1º Semestre;Desligamento;S;M;0;1;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2025;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+12 B;Matemática - Bacharelado;2025;1º Semestre;Desligamento;N;F;1;1;0;0;0;0;0;2
+12 B;Matemática - Bacharelado;2025;1º Semestre;Desligamento;N;M;6;0;1;3;0;0;0;10
+12 B;Matemática - Bacharelado;2025;1º Semestre;Desligamento;S;F;1;0;0;4;0;0;0;5
+12 B;Matemática - Bacharelado;2025;1º Semestre;Desligamento;S;M;2;1;0;2;0;0;0;5
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desistência;N;F;0;0;0;1;0;0;0;1
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desistência;N;M;2;0;0;0;0;0;0;2
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desligamento;N;F;0;0;0;0;0;0;1;1
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desligamento;N;M;4;0;0;1;0;0;0;5
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desligamento;S;F;2;0;0;1;0;0;0;3
+12 L;Matemática - Licenciatura;2025;1º Semestre;Desligamento;S;M;2;0;0;3;0;0;0;5
+16;Estatística;2025;1º Semestre;Desistência;N;F;2;0;0;0;0;0;0;2
+16;Estatística;2025;1º Semestre;Desistência;N;M;3;1;0;1;0;0;0;5
+16;Estatística;2025;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+16;Estatística;2025;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+16;Estatística;2025;1º Semestre;Desligamento;N;F;3;2;1;2;0;0;0;8
+16;Estatística;2025;1º Semestre;Desligamento;N;M;5;0;0;4;0;0;0;9
+16;Estatística;2025;1º Semestre;Desligamento;S;F;1;1;0;1;0;0;0;3
+16;Estatística;2025;1º Semestre;Desligamento;S;M;4;0;0;6;0;0;0;10
+32 B;Química - Bacharelado;2025;1º Semestre;Desistência;N;F;3;0;0;1;0;0;0;4
+32 B;Química - Bacharelado;2025;1º Semestre;Desistência;N;M;1;0;0;0;0;0;0;1
+32 B;Química - Bacharelado;2025;1º Semestre;Desistência;S;F;0;0;0;2;0;0;0;2
+32 B;Química - Bacharelado;2025;1º Semestre;Desistência;S;M;0;0;0;1;0;0;0;1
+32 B;Química - Bacharelado;2025;1º Semestre;Desligamento;N;F;1;0;0;2;0;0;1;4
+32 B;Química - Bacharelado;2025;1º Semestre;Desligamento;N;M;3;0;0;1;0;0;1;5
+32 B;Química - Bacharelado;2025;1º Semestre;Desligamento;S;F;1;0;0;1;0;0;0;2
+32 B;Química - Bacharelado;2025;1º Semestre;Desligamento;S;M;1;0;0;3;0;0;0;4
+32 L;Química - Licenciatura;2025;1º Semestre;Desistência;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2025;1º Semestre;Desistência;S;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2025;1º Semestre;Desligamento;N;F;1;0;0;0;0;0;0;1
+32 L;Química - Licenciatura;2025;1º Semestre;Desligamento;N;M;0;0;0;2;0;0;0;2
+32 L;Química - Licenciatura;2025;1º Semestre;Desligamento;S;F;0;1;0;0;0;0;0;1
+32 L;Química - Licenciatura;2025;1º Semestre;Formado;N;M;0;0;0;1;0;0;0;1
